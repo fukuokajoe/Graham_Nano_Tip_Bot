@@ -4,6 +4,7 @@ Graham/BananoBot++ is an open source, free to use nano/banano bot for discord.
 
 You can see/use a NANO and BANANO instance of this bot on the [official banano discord](https://chat.banano.co.in)
 
+
 ## Features
 
 - `balance` : Display balance of your account
